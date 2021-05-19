@@ -4,7 +4,7 @@
 ## Esse projeto foi desenvolvido para treinar minhas habilidades em desenvolvimento front-end. 
 
 <h4 align="center"> 
-	🚧  Mobile 🚀 Em construção...  🚧
+🚀 Finalizado
 </h4>
 
 ### 🏁 Instalação
