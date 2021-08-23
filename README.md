@@ -1,10 +1,10 @@
 
 
 # Frontend-Mentor_01
-## Esse projeto foi desenvolvido para treinar minhas habilidades em desenvolvimento front-end. 
+ Esse projeto foi desenvolvido para treinar minhas habilidades em desenvolvimento front-end. 
 
 <h4 align="center"> 
-🚀 Finalizado
+🚧 ...Em construção..🚧
 </h4>
 
 ### 🏁 Instalação
@@ -15,8 +15,9 @@ Clone este repositório usando git clone:https://github.com/Leticiafrnc/Frontend
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
--HTML
--Css
+
+- HTML
+- Css
 
 
 ### ✏ Autora
